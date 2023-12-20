@@ -183,7 +183,7 @@
 * Only one counterexample is needed to show that a statement is false.
 * Always try to show that a statement is false.
 
-## Definitions, theorems and proofs
+## Definitions, Theorems and Proofs
 
 * Definition: explains the mathematical meaning of a word.
 * Theorem: a very important true statement.
@@ -200,6 +200,4 @@
 * A conjecture is a statement believed to be true, but for which no proof is known.
 * An axiom is a basic assumption about a mathematical situation.
 
-## How to read a definition
-
-* 
+## How to Read a Definition

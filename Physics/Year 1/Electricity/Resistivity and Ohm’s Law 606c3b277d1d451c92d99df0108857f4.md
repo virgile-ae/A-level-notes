@@ -13,8 +13,6 @@ $$
 
 ## Diode
 
-
-
 ![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%201.png)
 
 ![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%202.png)
@@ -24,8 +22,6 @@ $$
 * When testing a diode, you must include a safety resistor to avoid breaking the diode.
 
 ## Thermistor (ohmic)
-
-
 
 ![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%203.png)
 
@@ -38,8 +34,6 @@ $$
 
 ## LDR
 
-
-
 ![Untitled](Untitled%206.png)
 
 * LDRs are also ohmic conductors.
@@ -50,8 +44,6 @@ $$
 ![Untitled](Untitled%208.png)
 
 ## Resistance of Wires
-
-
 
 Features which affect the resistance of wires
 
@@ -64,7 +56,7 @@ R=\frac{\rho L}A
 $$
 
 | Symbol | Quantity | Unit |
-|  |  |  |
+| |  | |
 | $R$ | resistance | Ω |
 | $\rho$ | resistivity | Ωm |
 | $L$ | length | m |

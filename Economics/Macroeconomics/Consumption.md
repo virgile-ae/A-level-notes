@@ -1,5 +1,5 @@
 ---
-Topic: Aggregate demand
+Topic: 
 Date: 2023-11-05
 Spec points: 2.2.2
 ---

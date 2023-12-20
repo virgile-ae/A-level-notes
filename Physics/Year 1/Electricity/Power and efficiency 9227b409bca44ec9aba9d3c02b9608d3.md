@@ -6,8 +6,6 @@ Topic: Energy
 
 ## Power
 
-
-
 **Power** is the rate of energy transfer.
 
 $$
@@ -15,7 +13,7 @@ P=\frac{\Delta E}{\Delta t}=\frac{\Delta W}{\Delta t}
 $$
 
 | Symbol | Quantity | Unit |
-|  |  |  |
+| |  | |
 | $P$ | Power | $W$ |
 | $\Delta E$ | Change in energy transferred | $J$ |
 | $\Delta W$ | Work done | $J$ |
@@ -26,14 +24,12 @@ P=Fv
 $$
 
 | Symbol | Quantity | Unit |
-|  |  |  |
+| |  | |
 | $P$ | Power | $W$ |
 | $F$ | Force | $N$ |
 | $v$ | Velocity | $ms^{-1}$ |
 
 ## Efficiency
-
-
 
 **Energy efficiency** is a measure of how usefully energy is used by a device.
 
@@ -44,8 +40,6 @@ $$
 The maximum efficiency is 1 as useful energy is always smaller than the energy supplied.
 
 ## Engine Power
-
-
 
 ### Moving at Constant Speed and Height
 

@@ -6,8 +6,6 @@ Topic: Electricity
 
 ## Charge
 
-
-
 * **Charge** is a property of matter.
 * Charge is transferred through charge carriers (commonly electrons, but also mobile ions).
 * Charge is represented by $Q$ and is measured in Coulombs.
@@ -28,8 +26,6 @@ Topic: Electricity
 * This causes the charged object to become less charged and the neutral object to become more charged.
 
 ## Current
-
-
 
 * **Current**: the rate of flow of charge.
 * Current flows from positive to negative.
@@ -63,14 +59,12 @@ Where
 
 ## Potential Difference
 
-
-
 $$
 V=\frac WQ
 $$
 
 | Symbol | Quantity | Unit symbol |
-|  |  |  |
+| |  | |
 | $V$ | Potential difference | $V$ |
 | $W$ | Work done | $J$ |
 | $Q$ | Charge | $C$ |
@@ -80,14 +74,12 @@ P=IV
 $$
 
 | Symbol | Quantity | Unit symbol |
-|  |  |  |
+| |  | |
 | $P$ | Power | $W$ |
 | $I$ | Current | $A$ |
 | $V$ | Potential difference | $V$ |
 
 ## IV Graphs
-
-
 
 ### Equipment List
 
@@ -116,8 +108,6 @@ $$
 * Plot a graph of I (on the y-axis) against V.
 
 ## Ohmic Conductors
-
-
 
 * **Ohmic conductor**: any conductor for which current is directly proportional to potential difference under constant physical conditions.
 * **Resistance**: a measure of how well a component resists the flow of current.
@@ -171,15 +161,13 @@ R=\frac{\rho L}A
 $$
 
 | Symbol | Quantity | Unit |
-|  |  |  |
+| |  | |
 | $R$ | resistance | Ω |
 | $\rho$ | resistivity | Ωm |
 | $L$ | length | m |
 | $A$ | area | m² |
 
 ## Electromotive Force (EMF)
-
-
 
 * **Electromotive force (EMF)** is the energy per unit charge transferred from chemical energy to electrical energy by the supply.
 * **Superconductors** have a resistivity of 0 when lowered below their critical temperature.
@@ -188,8 +176,6 @@ $$
 
 ## Kirchhoff’s Laws
 
-
-
 ### Kirchhoff’s Current Law
 
 $$
@@ -197,7 +183,7 @@ $$
 $$
 
 | Symbol | Quantity | Unit |
-|  |  |  |
+| |  | |
 | $\Sigma I$ | Sum of currents | $A$ |
 
 $\text{total current into a junction}=\text{total current out of a junction}$
@@ -209,15 +195,13 @@ $$
 $$
 
 | Symbol | Quantity | Unit |
-|  |  |  |
+| |  | |
 | $\Sigma \epsilon$ | Sum of emfs | $V$ |
 | $\Sigma v$ | Sum of potential drops | $V$ |
 
 $\text{sum of emfs in a loop}=\text{sum of potential drops}$
 
 ## Potential Dividers
-
-
 
 ![The circuit symbol for a potentiometer](Physics/Year%201/Electricity/Potential%20dividers%201989f14231fd481eb46e62f5d6ac00c5/Untitled.png)
 
@@ -233,14 +217,12 @@ A potential divider
 
 ## Internal Resistance
 
-
-
 $$
 \epsilon=I(R+r)
 $$
 
 | Symbol | Quantity | Unit |
-|  |  |  |
+| |  | |
 | $\epsilon$ | EMF | $V$ |
 | $I$ | Current | $A$ |
 | $R$ | Load resistance | $\Omega$ |
@@ -257,8 +239,6 @@ $$
 The power to the external resistor ($R$) is greatest when $r=R$.
 
 ## Alternating Currents
-
-
 
 * The root mean square voltage ($V_{RMS}$) is
     * The square root of the mean of the squares of values of the voltage in one cycle.

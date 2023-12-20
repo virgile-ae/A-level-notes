@@ -6,8 +6,6 @@ Topic: Electricity
 
 ## Charge
 
-
-
 * **Charge** is a property of matter.
 * Charge is transferred through charge carriers (commonly electrons, but also mobile ions).
 * Charge is represented by $Q$ and is measured in Coulombs.
@@ -28,8 +26,6 @@ Topic: Electricity
 * This causes the charged object to become less charged and the neutral object to become more charged.
 
 ## Current
-
-
 
 * **Current**: the rate of flow of charge.
 * Current flows from positive to negative.
@@ -63,14 +59,12 @@ Where
 
 ## Potential Difference
 
-
-
 $$
 V=\frac WQ
 $$
 
 | Symbol | Quantity | Units | Unit symbol |
-|  |  |  |  |
+| |  | |  |
 | $V$ | Potential difference | volts | V |
 | $W$ | Work done | joules | J |
 | $Q$ | Charge | coulomb | C |
@@ -80,14 +74,12 @@ P=IV
 $$
 
 | Symbol | Quantity | Units | Unit symbol |
-|  |  |  |  |
+| |  | |  |
 | $P$ | Power | watts | W |
 | $I$ | Current | amperes | A |
 | $V$ | Potential difference | volts | V |
 
 ## IV Graphs
-
-
 
 ### Equipment List
 

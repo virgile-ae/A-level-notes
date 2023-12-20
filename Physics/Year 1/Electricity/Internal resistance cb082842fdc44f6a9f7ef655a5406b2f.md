@@ -11,7 +11,7 @@ $$
 $$
 
 | Symbol | Quantity | Unit |
-|  |  |  |
+| |  | |
 | $\epsilon$ | EMF | $V$ |
 | $I$ | Current | $A$ |
 | $R$ | Load resistance | $\Omega$ |
