@@ -201,3 +201,93 @@
 * An axiom is a basic assumption about a mathematical situation.
 
 ## How to Read a Definition
+
+* Observe the conditions given.
+* What are we dealing with?
+* What examples exist?
+* Find standard examples.
+* Find trivial examples.
+* Find extreme examples.
+* Find non-examples.
+* Create new objects from old ones.
+
+## How to Read a Theorem
+
+* Find the assumptions and conclusions.
+* Rate the strength of the assumptions and conclusions.
+* Compare with earlier theorems.
+* Observe the detail.
+* Classify what the theorem does and how it can be used.
+* Draw a (useful) picture.
+* Apply the theorem to simple examples.
+* Apply the theorem to trivial and extreme examples.
+* Is the converse true?
+* Rewrite in symbols or in words.
+* What happens to non-examples?
+* Generalize.
+
+## Proof
+
+* A proof guarantees that a statement is true.
+* The way a proof is presented is usually very different to how it was discovered.
+* Proofs are hard to read and hard to create.
+* Reproving statements allows you to develop your own proof-creating skills.
+* To really think like a mathematician you must embrace proof.
+
+## How to Read a Proof
+
+* Apply the reading techniques.
+* Break the proof into pieces.
+* Identify the methods used.
+* Find where the assumptions are used.
+* Apply the proof to an example.
+* Draw a picture.
+* Check the text.
+* Look for mistakes.
+* Apply the proof to a non-example.
+* Memorise by understanding.
+
+## A Study of Pythagoras' Theorem
+
+* Pythagoras' Theorem is: Let $T$ be a triangle with sides of length, $a$, $b$ and $c$ with $c$ the longest. If $T$ is a right-angled triangle, then $c^2=a^2+b^2$.
+* The converse of Pythagoras' Theorem is: Let $T$ be a triangle with sides of length $a$, $b$ and $c$ with $c$ the longest. If $c^2=a^2+b^2$, then $T$ is a right-angled triangle.
+
+## Techniques of Proof 1: Direct Method
+
+* Show that the sum of two consecutive odd numbers is a multiple of 4. Is the converse true?
+	* Let $a,b$ be consecutive odd numbers with $a>b$. Therefore $a=2k-1,b=2k+1$ for $k\in\mathbb{Z}$. Therefore $a+b=(2k-1) + (2k+1) = 4k$.
+	* $4k=4k + (1-1)=(2k-1) + (2k+1)=a+b$.
+* Prove that for all integers $x$ with final digit equal to 5, $x$ is a multiple of 5. Is the converse true?
+	* $x=10a+5,a\in\mathbb{Z}\Longrightarrow x=5\times2a+5=5(2a+1)$ therefore 5 is a factor of $x$.
+	* For the converse to be true, $\forall k\in\mathbb{Z},\exists a\in\mathbb{Z}(k=2a+1)$, however this is not true for $k=2b, \forall b\in\mathbb{Z}$.
+
+* In the direct method, to show $A\Longrightarrow B$ we assume $A$ and proceed to show $B$.
+* We can prove that $x=y$ via one of the following:
+	1. Choose the side with the most complicated expression and reduce it to the other side;
+	1. $x-y=0$;
+	1. $x\ge y$ and $x\le y$;
+	1. $x=z$ and $y=z$.
+* To prove that $X\subseteq Y$: Assume $x\in X$ and show that $x\in Y$.
+* To prove that two sets $X$ and $Y$ are equal:
+	* Use a string of equalities, or
+	* Prove that $X\subseteq Y$ and $Y\subseteq X$.
+* To prove that '$A\iff B$' show '$A\Longrightarrow B$' and '$B\Longleftarrow A$'.
+
+## Some Common Mistakes
+
+* Don't assume what had to be proved.
+* Square root is a function.
+* The square root of $a$ is the positive solution to the equation $x^2=a$.
+* $1/0\ne\infty$.
+* $-x$ may be negative.
+* Be careful with inequalities and negative numbers.
+
+## Techniques of Proof 2: Proof by Cases
+
+* It is sometimes convenient to break a problem into cases.
+* We may need to analyze separately extreme cases in a problem.
+* The definition of the modulus function is $|x|=\begin{cases} x, & \text{for }x\ge0,\\-x,& \text{for }x < 0\end{cases}$.
+* $|x|=\sqrt{x^2}$.
+* **Triangle inequality**: For all $x, y\in\mathbb{R}$, we have $|x+y|\le|x|+|y|$.
+
+## Techniques of Proof 3: Contradiction

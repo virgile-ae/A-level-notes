@@ -1,12 +1,12 @@
 ## What is a Vector
 
-| Scalar | Vector |
-|-|-|
-| Mass | Force |
-| Speed | Velocity |
-| Distance | Displacement |
-| Temperature | Momentum |
-| Density | |
+| Scalar      | Vector       |
+| ----------- | ------------ |
+| Mass        | Force        |
+| Speed       | Velocity     |
+| Distance    | Displacement |
+| Temperature | Momentum     |
+| Density     |              |
 
 * **Scalar**: only has a magnitude.
 * **Vector**: has a magnitude and a direction.

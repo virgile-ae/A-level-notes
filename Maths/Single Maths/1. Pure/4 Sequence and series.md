@@ -35,10 +35,10 @@ For $(a+bx)^n$
 
 ## 4.2 Sequences
 
-* **Increasing sequences** have terms which increase in magnitude. $u_{n+1}\ge u_n$ for all $n\in\N$.
-* **Decreasing sequences** have terms which decrease in magnitude. $u_{n+1}\le u_n$ for all $n\in\N$.
-* **Strictly** increasing or decreasing sequences have $u_{n+1}>u_n$ and $u_{n+1}<u_n$ for all $n\in\N$, respectively.
-* **Periodic sequences** have terms which repeat periodically. There is a $k\in\N$ such that $u_{n+k}=u_n$ for all $n\in\N$. $k$ is called the **order** of the sequence.
+* **Increasing sequences** have terms which increase in magnitude. $u_{n+1}\ge u_n$ for all $n\in\mathbb{N}$.
+* **Decreasing sequences** have terms which decrease in magnitude. $u_{n+1}\le u_n$ for all $n\in\mathbb{N}$.
+* **Strictly** increasing or decreasing sequences have $u_{n+1}>u_n$ and $u_{n+1}<u_n$ for all $n\in\mathbb{N}$, respectively.
+* **Periodic sequences** have terms which repeat periodically. There is a $k\in\mathbb{N}$ such that $u_{n+k}=u_n$ for all $n\in\mathbb{N}$. $k$ is called the **order** of the sequence.
 
 ## 4.3 Sigma Notation for Sums of Series
 
@@ -103,7 +103,7 @@ $$
 ### Sum to Infinity
 
 $$
-S_\infin=\frac{a}{1-r}
+S_\infty=\frac{a}{1-r}
 $$
 
 * This only works for series which converge (i.e. approach a value as the series continues).

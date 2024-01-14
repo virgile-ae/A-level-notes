@@ -1,9 +1,3 @@
-## Power and Efficiency
-
-Date: 04/12/2023
-Teacher: JMBS
-Topic: Energy
-
 ## Power
 
 **Power** is the rate of energy transfer.
@@ -12,22 +6,22 @@ $$
 P=\frac{\Delta E}{\Delta t}=\frac{\Delta W}{\Delta t}
 $$
 
-| Symbol | Quantity | Unit |
-| |  | |
-| $P$ | Power | $W$ |
-| $\Delta E$ | Change in energy transferred | $J$ |
-| $\Delta W$ | Work done | $J$ |
-| $\Delta t$ | Change in time | $s$ |
+| Symbol     | Quantity                     | Unit |
+| ---------- | ---------------------------- | ---- |
+| $P$        | Power                        | $W$  |
+| $\Delta E$ | Change in energy transferred | $J$  |
+| $\Delta W$ | Work done                    | $J$  |
+| $\Delta t$ | Change in time               | $s$  |
 
 $$
 P=Fv
 $$
 
-| Symbol | Quantity | Unit |
-| |  | |
-| $P$ | Power | $W$ |
-| $F$ | Force | $N$ |
-| $v$ | Velocity | $ms^{-1}$ |
+| Symbol | Quantity | Unit      |
+| ------ | -------- | --------- |
+| $P$    | Power    | $W$       |
+| $F$    | Force    | $N$       |
+| $v$    | Velocity | $ms^{-1}$ |
 
 ## Efficiency
 

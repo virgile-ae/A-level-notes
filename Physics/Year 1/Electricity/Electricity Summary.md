@@ -1,9 +1,3 @@
-## Electricity Summary
-
-Date: 04/12/2023
-Teacher: MSPB
-Topic: Electricity
-
 ## Charge
 
 * **Charge** is a property of matter.
@@ -31,31 +25,29 @@ Topic: Electricity
 * Current flows from positive to negative.
 * Electron flow is from negative to positive.
 
-$$
-I=\frac{\Delta Q}{\Delta t}
-$$
+$$I=\frac{\Delta Q}{\Delta t}$$
 
-$$
-\#e=\frac{\Delta Q}e
-$$
+| Symbol     | Quantity          | Unit |
+| ---------- | ----------------- | ---- |
+| $I$        | Current.          | $A$  |
+| $\Delta Q$ | Change in charge. | $C$  |
+| $\Delta t$ | Change in time.   | $s$     |
+$$\#e=\frac{\Delta Q}e$$
 
-Where
+| Symbol     | Quantity             | Unit |
+| ---------- | -------------------- | ---- |
+| $\#e$      | Number of electrons. |      |
+| $\Delta Q$ | Change in charge.    | $C$  |
+| $e$        | Elementary charge.   | $C$  |
+$$I=qnvA$$
 
-* $\#e$ is number of electrons.
-* $\Delta Q$ is change in charge.
-* $e$ is the elementary charge.
-
-$$
-I=qnvA
-$$
-
-Where
-
-* $I$ is current.
-* $q$ is the charge of the charge carrier (usually the elementary charge $e$).
-* $n$ is the number of charge carriers.
-* $v$ is the velocity of the charge carriers.
-* $A$ is the cross-sectional area of the wire.
+| Symbol | Quantity                                                          | Unit      |
+| ------ | ----------------------------------------------------------------- | --------- |
+| $I$    | Current                                                           | $A$       |
+| $q$    | Charge of the charge carrier (usually the elementary charge $e$). | $C$       |
+| $n$    | Number of charge carriers.                                        |           |
+| $v$    | Velocity of charge carriers.                                      | $ms^{-1}$ |
+| $A$    | Cross-sectional area of the wire.                                 | $m^2$     |
 
 ## Potential Difference
 
@@ -63,21 +55,21 @@ $$
 V=\frac WQ
 $$
 
-| Symbol | Quantity | Unit symbol |
-| |  | |
-| $V$ | Potential difference | $V$ |
-| $W$ | Work done | $J$ |
-| $Q$ | Charge | $C$ |
+| Symbol | Quantity             | Unit symbol |
+| ------ | -------------------- | ----------- |
+| $V$    | Potential difference | $V$         |
+| $W$    | Work done            | $J$         |
+| $Q$    | Charge               | $C$         |
 
 $$
 P=IV
 $$
 
-| Symbol | Quantity | Unit symbol |
-| |  | |
-| $P$ | Power | $W$ |
-| $I$ | Current | $A$ |
-| $V$ | Potential difference | $V$ |
+| Symbol | Quantity             | Unit symbol |
+| ------ | -------------------- | ----------- |
+| $P$    | Power                | $W$         |
+| $I$    | Current              | $A$         |
+| $V$    | Potential difference | $V$         |
 
 ## IV Graphs
 
@@ -97,7 +89,7 @@ $$
 
 ### Method
 
-![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled.png)
+![Untitled](Physics/Year%201/Electricity/Electricity%20Summary/Untitled.png)
 
 * Setup the circuit shown above.
 * For the diode experiment, you must include a safety resistor.
@@ -118,17 +110,17 @@ $$
 
 ### Diode
 
-![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%201.png)
+![Untitled](Physics/Year%201/Electricity/Electricity%20Summary/Untitled%201.png)
 
 * **Threshold voltage**: the point after which resistance decreases.
 * For diodes, this is 0.6V.
 * When testing a diode, you must include a safety resistor to avoid breaking the diode.
 
-![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%202.png)
+![Untitled](Physics/Year%201/Electricity/Electricity%20Summary/Untitled%202.png)
 
 ### Thermistor (ohmic)
 
-![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%203.png)
+![Untitled](Physics/Year%201/Electricity/Electricity%20Summary/Untitled%203.png)
 
 * Thermistors are ohmic conductors.
 * When they heat up, their resistance decreases.
@@ -160,12 +152,12 @@ $$
 R=\frac{\rho L}A
 $$
 
-| Symbol | Quantity | Unit |
-| |  | |
-| $R$ | resistance | Ω |
-| $\rho$ | resistivity | Ωm |
-| $L$ | length | m |
-| $A$ | area | m² |
+| Symbol | Quantity    | Unit       |
+| ------ | ----------- | ---------- |
+| $R$    | resistance  | $\Omega$   |
+| $\rho$ | resistivity | $\Omega m$ |
+| $L$    | length      | $m$        |
+| $A$    | area        | $m^2$      |
 
 ## Electromotive Force (EMF)
 
@@ -182,9 +174,9 @@ $$
 \Sigma I=0
 $$
 
-| Symbol | Quantity | Unit |
-| |  | |
-| $\Sigma I$ | Sum of currents | $A$ |
+| Symbol     | Quantity        | Unit |
+| ---------- | --------------- | ---- |
+| $\Sigma I$ | Sum of currents | $A$  |
 
 $\text{total current into a junction}=\text{total current out of a junction}$
 
@@ -194,20 +186,20 @@ $$
 \Sigma\epsilon=\Sigma v
 $$
 
-| Symbol | Quantity | Unit |
-| |  | |
-| $\Sigma \epsilon$ | Sum of emfs | $V$ |
-| $\Sigma v$ | Sum of potential drops | $V$ |
+| Symbol            | Quantity               | Unit |
+| ----------------- | ---------------------- | ---- |
+| $\Sigma \epsilon$ | Sum of emfs            | $V$  |
+| $\Sigma v$        | Sum of potential drops | $V$  |
 
 $\text{sum of emfs in a loop}=\text{sum of potential drops}$
 
 ## Potential Dividers
 
-![The circuit symbol for a potentiometer](Physics/Year%201/Electricity/Potential%20dividers%201989f14231fd481eb46e62f5d6ac00c5/Untitled.png)
+![The circuit symbol for a potentiometer](Physics/Year%201/Electricity/Potential%20dividers/Untitled.png)
 
 The circuit symbol for a potentiometer
 
-![A potential divider](Physics/Year%201/Electricity/Potential%20dividers%201989f14231fd481eb46e62f5d6ac00c5/Untitled%201.png)
+![A potential divider](Physics/Year%201/Electricity/Potential%20dividers/Untitled%201.png)
 
 A potential divider
 
@@ -221,12 +213,12 @@ $$
 \epsilon=I(R+r)
 $$
 
-| Symbol | Quantity | Unit |
-| |  | |
-| $\epsilon$ | EMF | $V$ |
-| $I$ | Current | $A$ |
-| $R$ | Load resistance | $\Omega$ |
-| $r$ | Internal resistance | $\Omega$ |
+| Symbol     | Quantity            | Unit     |
+| ---------- | ------------------- | -------- |
+| $\epsilon$ | EMF                 | $V$      |
+| $I$        | Current             | $A$      |
+| $R$        | Load resistance     | $\Omega$ |
+| $r$        | Internal resistance | $\Omega$ |
 
 $$
 P=\frac{\epsilon^2}{(r+R)^2}R

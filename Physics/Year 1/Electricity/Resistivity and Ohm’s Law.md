@@ -1,9 +1,3 @@
-## Resistivity and Ohm’s Law
-
-Date: 18/09/2023
-Teacher: MSPB
-Topic: Electricity
-
 * **Ohmic conductor**: any conductor for which current is directly proportional to potential difference under constant physical conditions.
 * **Resistance**: a measure of how well a component resists the flow of current.
 
@@ -13,9 +7,9 @@ $$
 
 ## Diode
 
-![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%201.png)
+![Untitled](Physics/Year%201/Electricity/Electricity%20Summary/Untitled%201.png)
 
-![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%202.png)
+![Untitled](Physics/Year%201/Electricity/Electricity%20Summary/Untitled%202.png)
 
 * **Threshold voltage**: the point after which resistance decreases.
 * For diodes, this is 0.6V.
@@ -23,7 +17,7 @@ $$
 
 ## Thermistor (ohmic)
 
-![Untitled](Physics/Year%201/Electricity/Electricity%20Summary%201a43d4b0bdea44018a6cfce5d8e67d68/Untitled%203.png)
+![Untitled](Physics/Year%201/Electricity/Electricity%20Summary/Untitled%203.png)
 
 * Thermistors are ohmic conductors.
 * When they heat up, their resistance decreases.
@@ -55,9 +49,9 @@ $$
 R=\frac{\rho L}A
 $$
 
-| Symbol | Quantity | Unit |
-| |  | |
-| $R$ | resistance | Ω |
-| $\rho$ | resistivity | Ωm |
-| $L$ | length | m |
-| $A$ | area | m² |
+| Symbol | Quantity    | Unit       |
+| ------ | ----------- | ---------- |
+| $R$    | resistance  | $\Omega$   |
+| $\rho$ | resistivity | $\Omega m$ |
+| $L$    | length      | $m$        |
+| $A$    | area        | $m^2$      |

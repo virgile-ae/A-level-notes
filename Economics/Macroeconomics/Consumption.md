@@ -4,7 +4,7 @@ Date: 2023-11-05
 Spec points: 2.2.2
 ---
 * **Consumption** is the total planned spending by households on consumer goods and services produced within the economy.
-    * It is the largest component of aggregate demand (60% of total AD).
+    * It is the largest component of aggregate demand *(60% of total AD)*.
 * **Disposable income** (Y) is the money consumers have left to spend after taxes are taken and state benefits are added.
     * It is impacted by government tax.
     * It is the most important factor in determining the level of consumption.
@@ -19,13 +19,13 @@ Spec points: 2.2.2
 * The **average propensity to consume** is the average amount spent on consumption out of total income.
     * In an industrialized country, the economy’s APC is likely < 1 as people save some of their earnings.
 * **Marginal propensity to save** is how much of an increase in income is saved.
-    * $\text{marginal propensity to save} = \frac{\Delta\text{savings}}{\Delta\text{income}}$
+    * $\text{marginal propensity to save} = \frac{\Delta\text{savings}}{\Delta\text{income}}$.
 * **Average propensity to save** is the average amount saved out of income.
-    * $\text{average propensity to save}=\frac{\text{total savings}}{ \text{total income}}$
+    * $\text{average propensity to save}=\frac{\text{total savings}}{ \text{total income}}$.
 
-## Factors that Affect Consumption
+## Factors that affect consumption
 
-### Disposable Income
+### Disposable income
 
 * Increase (right shift)
     * (Due to a) cut in the marginal rate of income tax.
@@ -33,7 +33,7 @@ Spec points: 2.2.2
     * Increased marginal propensity to consume.
     * Increased consumption.
 
-### Consumer Confidence
+### Consumer confidence
 
 * **Consumer confidence** is how optimistic consumers are about their future income and the economy’s future.
 * High (right shift)
@@ -46,7 +46,7 @@ Spec points: 2.2.2
     * Decreased spending, increased savings.
 * Expectation of interest rates to increase, increases spending.
 
-### Interest Rates
+### Interest rates
 
 * **Interest rates** are the cost of borrowing and the reward for saving expressed as a percentage of the money saved/borrowed.
 * Increase (left shift)
@@ -58,7 +58,7 @@ Spec points: 2.2.2
     * Decreased return on savings $\rightarrow$ low incentive to save $\rightarrow$ increased consumption.
     * Decreased mortgage repayment $\rightarrow$ increased disposable income $\rightarrow$ increased consumption.
 
-### Availability of Credit
+### Availability of credit
 
 * This is the maximum amount of credit a borrower is allowed to have.
 * Low (left shift)
@@ -66,7 +66,7 @@ Spec points: 2.2.2
     * Decreased impact of low interest rates (as people can’t borrow).
     * Decreased consumption and marginal propensity to consume.
 
-### Wealth Effect
+### Wealth effect
 
 * **Wealth** is a stock of assets.
 * Increase (right shift)
@@ -77,7 +77,7 @@ Spec points: 2.2.2
     * House prices can be used as collateral in new loans.
     * Increased house prices leads to more/larger loans given out.
 
-### Inflation Expectations
+### Inflation expectations
 
 * **Inflation** is the sustained increase in the general price level.
 * Increase (right shift):

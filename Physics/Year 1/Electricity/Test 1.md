@@ -1,9 +1,4 @@
-## Test 1
-
-Date: October 2, 2023
-Teacher: MSPB
-
-### 3.5.1.1 Basics of Electricity
+## 3.5.1.1 Basics of Electricity
 
 * **Electric current** is the rate of flow of charge.
 * **Potential difference** is the work done per unit charge.
@@ -11,7 +6,7 @@ Teacher: MSPB
 * $V=\frac WQ$
 * **Resistance** is defined as $R=\frac VI$
 
-### 3.5.1.2 Current-voltage Characteristics
+## 3.5.1.2 Current-voltage Characteristics
 
 * For ohmic conductor: current is directly proportional to voltage.
 * For diode: no/very low resistance after 0.6V.
@@ -20,7 +15,7 @@ Teacher: MSPB
 * Ammeters have zero resistance.
 * Voltmeters have infinite resistance.
 
-### 3.5.1.3 Resistivity
+## 3.5.1.3 Resistivity
 
 * **Resistivity** of a material is defined as $\rho=\frac{RA}L$
     * $R$ is resistance.

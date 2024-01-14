@@ -2,60 +2,60 @@
 
 ### SI Units
 
-| Unit | Symbol | Quantity |
-|-|-|-|
-| Second | $\text{s}$ | Time |
-| Metre | $\text{m}$ | Length |
-| Kilogram | $\text{kg}$ | Mass |
-| Ampere | $\text{A}$ | Electric current |
-| Kelvin | $\text{K}$ | Temperature |
-| Mole | $\text{mol}$ | Amount of substance |
-| Candela | $\text{cd}$ | Luminous intensity |
+| **Unit** | **Symbol** | **Quantity** |
+| ---- | ---- | ---- |
+| Second | $s$ | Time |
+| Metre | $m$ | Length |
+| Kilogram | $kg$ | Mass |
+| Ampere | $A$ | Electric current |
+| Kelvin | $K$ | Temperature |
+| Mole | $mol$ | Amount of substance |
+| Candela | $cd$ | Luminous intensity |
 
 ### Derived Units
 
-| Unit | Symbol | Quantity | In terms of other derived units |
-|-|-|-|-|
-| Radian | $\text{rad}$ | Plane angle | |
-| Steradian | $\text{sr}$ | Solid angle | |
-| Square metre | $\text{m}^2$ | Area | |
-| Cubic metre | $\text{m}^3$ | Volume | |
-| Metre per second | $\text{m s}^{-1}$ | Velocity | |
-| Metre per second squared | $\text{m s}^{-2}$ | Acceleration | |
-| Kilogram per cubic metre | $\text{kg m}^{-3}$ | Density | |
-| Cubic metre per kilogram | $\text{m}^3\text{ kg}^{-1}$ | Specific Volume | |
-| Ampere per square metre | $\text{A m}^{-2}$ | Current Density | |
-| Ampere per metre | $\text{m}^{-1}\text{ A}$ | Magnetic Field Strength | |
-| Mole per cubic metre | $\text{m}^{-3}\text{ mol}$ | Concentration | |
-| Hertz | $\text{Hz}$ | Frequency | $\text{s}^{-1}$ |
-| Newton | $\text{N}$ | Force | $\text{kg m s}^{-2}$ |
-| Pascal | $\text{Pa}$ | PressureStress | $\text{N m}^{-2}$ |
-| Joule | $\text{J}$ | Energy | $\text{N m}$ |
-| Watt | $\text{W}$ | Power | $\text{J s}^{-1}$ |
-| Coulomb | $\text{C}$ | Electric Charge | $\text{A s}$ |
-| Volt | $\text{V}$ | Potential Difference | $\text{W A}^{-1}$ |
-| Farad | $\text{F}$ | Capacitance | $\text{C V}^{-1}$ |
-| Ohm | $Ω$ | Electric Resistance | $\text{V A}^{-1}$ |
-| Siemens | $\text{S}$ | Electric Conductance | $\text{A V}^{-1} \text{ Ω}^{-1}$ |
-| Weber | $\text{Wb}$ | Magnetic Flux | $\text{V s}$ |
-| Tesla | $\text{T}$ | Magnetic Flux Density | $\text{Wb m}^{-2}$ |
-| Henry | $\text{H}$ | Inductance | $\text{Wb A}^{-1}$ |
-| Degree Celsius | $\text{°C}$ | Celsius Temperature | |
-| Lumen | $\text{lm}$ | Luminous Flux | |
-| Lux | $\text{lx}$ | Illuminance | $\text{lm m}^{-2}$ |
-| Becquerel | $\text{Bq}$ | Activity of a Radionuclide | $\text{s}^{-1}$ |
-| Grey | $\text{Gy}$ | Absorbed dose | $\text{J kg}^{-1}$ |
-| Sievert | $\text{Sv}$ | Dose equivalent | $\text{J kg}^{-1}$ |
+| Unit | Symbol | Quantity |
+| ---- | ---- | ---- |
+| Radian | $\text{rad}$ | Plane angle |
+| Steradian | $\text{sr}$ | Solid angle |
+| Square metre | $\text{m}^2$ | Area |
+| Cubic metre | $\text{m}^3$ | Volume |
+| Metre per second | $\text{m s}^{-1}$ | Velocity |
+| Metre per second squared | $\text{m s}^{-2}$ | Acceleration |
+| Kilogram per cubic metre | $\text{kg m}^{-3}$ | Density |
+| Cubic metre per kilogram | $\text{m}^3\text{ kg}^{-1}$ | Specific Volume |
+| Ampere per square metre | $\text{A m}^{-2}$ | Current Density |
+| Ampere per metre | $\text{m}^{-1}\text{ A}$ | Magnetic Field Strength |
+| Mole per cubic metre | $\text{m}^{-3}\text{ mol}$ | Concentration |
+| Hertz | $\text{Hz}$ | Frequency |
+| Newton | $\text{N}$ | Force |
+| Pascal | $\text{Pa}$ | PressureStress |
+| Joule | $\text{J}$ | Energy |
+| Watt | $\text{W}$ | Power |
+| Coulomb | $\text{C}$ | Electric Charge |
+| Volt | $\text{V}$ | Potential Difference |
+| Farad | $\text{F}$ | Capacitance |
+| Ohm | $Ω$ | Electric Resistance |
+| Siemens | $\text{S}$ | Electric Conductance |
+| Weber | $\text{Wb}$ | Magnetic Flux |
+| Tesla | $\text{T}$ | Magnetic Flux Density |
+| Henry | $\text{H}$ | Inductance |
+| Degree Celsius | $\text{°C}$ | Celsius Temperature |
+| Lumen | $\text{lm}$ | Luminous Flux |
+| Lux | $\text{lx}$ | Illuminance |
+| Becquerel | $\text{Bq}$ | Activity of a Radionuclide |
+| Grey | $\text{Gy}$ | Absorbed dose |
+| Sievert | $\text{Sv}$ | Dose equivalent |
 
 ## Prefixes
 
-| Prefix | Expanded | Meaning | Prefix | Expanded | Meaning |
-|-|-|-|-|-|-|
-| k | Kilo | $\times10^3$ | m | Milli | $\times10^{-3}$ |
-| M | Mega | $\times 10^6$ | μ | Micro | $\times10^{-6}$ |
-| G | Giga | $\times 10^9$ | n | Nano | $\times10^{-9}$ |
-| T | Tera | $\times10^{12}$ | p | Pico | $\times10^{-12}$ |
-| P | Peta | $\times10^{15}$ | f | Femto | $\times10^{-15}$ |
+| **Prefix** | **Expanded** | **Meaning**         | **Prefix** | **Expanded** | **Meaning**          |
+| ------ | -------- | --------------- | ------ | -------- | ---------------- |
+| k      | Kilo     | $\times10^3$    | m      | Milli    | $\times10^{-3}$  |
+| M      | Mega     | $\times 10^6$   | μ      | Micro    | $\times10^{-6}$  |
+| G      | Giga     | $\times 10^9$   | n      | Nano     | $\times10^{-9}$  |
+| T      | Tera     | $\times10^{12}$ | p      | Pico     | $\times10^{-12}$ |
+| P      | Peta     | $\times10^{15}$ | f      | Femto    | $\times10^{-15}$ |
 
 ## Errors
 
@@ -94,11 +94,11 @@ $\text{resolution} = \pm \frac{\text{smallest unit}}2$
 
 ### Combination of Absolute and Percentage Uncertainties
 
-| Values | Uncertainties |
-|-|-|
-| $a=b\pm c$ | $\Delta a =\Delta b + \Delta c$ |
+| Values                   | Uncertainties                          |
+| ------------------------ | -------------------------------------- |
+| $a=b\pm c$               | $\Delta a =\Delta b + \Delta c$        |
 | $a=bc,\space a=\frac bc$ | $\epsilon a = \epsilon b + \epsilon c$ |
-| $a=b^c$ | $\Delta a=\Delta b \times c$ |
+| $a=b^c$                  | $\Delta a=\Delta b \times c$           |
 
 ### Representing Uncertainties in a Data point on a Graph Using Error Bars
 
