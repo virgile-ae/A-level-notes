@@ -22,7 +22,7 @@ $$
 
 ## The Trade Cycle
 
-![Untitled](Economics/Macroeconomics/The%20trade%20cycle/Untitled.png)
+![Untitled](Trade%20Cycle%20Diagram.png)
 
 ## Why is the AD Curve downward Sloping
 

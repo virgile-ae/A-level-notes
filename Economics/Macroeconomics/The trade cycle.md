@@ -3,7 +3,7 @@ Date: 2023-09-18
 Spec points: 2.5.3
 ---
 
-![Untitled](Economics/Macroeconomics/The%20trade%20cycle/Untitled.png)
+![Untitled](Trade%20Cycle%20Diagram.png)
 
 * The **trade cycle** is fluctuations in the growth of real output, consisting of alternating periods of expansion (increasing real output) and contraction.
 * Some businesses benefit from economic downturn, such as:

@@ -291,3 +291,47 @@
 * **Triangle inequality**: For all $x, y\in\mathbb{R}$, we have $|x+y|\le|x|+|y|$.
 
 ## Techniques of Proof 3: Contradiction
+
+* In proof by contradiction, we assume that the negation of the statement is true and from that deduce something that is obviously false.
+* The square root of 2 is irrational.
+* Write statements, such as ‘The sum of a rational and irrational number is an irrational number,’ as implications.
+
+## Techniques of proof 4: Induction
+
+* The principle of mathematical induction is useful for proving statements indexed by the natural numbers.
+* Think of applying induction when you see statements indexed by the natural numbers.
+* Induction is used extensively in mathematics, e.g. summations, inequalities, divisibility, …
+* First prove $A(1)$, then show $A(k)\Longrightarrow A(k+1)$ for some (arbitrary but fixed) $k\in\mathbb{N}$.
+* Remember, it's *some* $k$, not *all* $k$.
+
+### Examples 24.1
+
+1. The expression $6^n-1$ is divisible by $5$ for all $n\in\mathbb{N}$, $6\equiv1\pmod 5$, therefore $6^n\equiv1^n\pmod{5}\equiv1\pmod5$. Therefore $6^n-1\equiv0\pmod5$, so it is a multiple of $5$ and is therefore divisible by $5$.
+1. $\sum^n_{i=1}i=1+2+3+\cdots+(n-1)+n$
+	$2\sum i=n+n+(n-1)+1+(n-2)+2+\cdots=n(n+1)$
+	$\sum i=\frac12n(n+1)$
+
+## More sophisticated induction techniques
+
+* The initial step does not have to be $A(1)$. If $A(r)$ is true and $A(k)\Longrightarrow A(k+1)$ for all $k\ge r$, then $A(n)$ is true for $n\ge r$.
+* The inductive step does not have to be $A(k) \Longrightarrow A(k+1)$. Can have
+	* $A(k-1)$ and $A(k)$ implies $A(k+1)$, or
+	* $A(j)$ true for all $j\le k$ implies $A(k+1)$.
+* We can combine changes to initial step and induction step. If $A(r)$ is true and $A(j)$ is true for all $r\le j\le k$ implies $A(k+1)$, then $A(n)$ is true for $n\ge r$.
+
+## Techniques of proof 5: Contrapositive method
+
+* The contrapositive statement of '$A\Longrightarrow B$' is '$\text{not } B\Longrightarrow \text{not } A$'.
+* Don't confuse proof by contradiction and proof by contrapositive.
+
+## Divisors
+
+* An integer $a$ divides the integer $b$ if there exists an integer $k$ such that $b=ka$.
+* We say $b$ is divisible by $a$ and write $a|b$.
+* We say that $a$ is a divisor of $b$.
+* If $a|b$ and $a|c$ then $a|(mb+nc)$ for all integers $m$ and $n$.
+* The greatest common divisor of two non-zero integers $a$ and $b$, denoted $\gcd(a, b)$, is the largest positive integer that divides $a$ and $b$.
+* $n|ab$ does not imply that $n$ divides one of $a$ and $b$.
+
+## The Euclidean Algorithm
+
